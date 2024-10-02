@@ -53,8 +53,8 @@ o	Save the final modified image to your local directory.
 
 
 ## Program 
-### Developed By: ROSELIN MARY JOVITA.S
-### Register Number: 212222230122
+### Developed By: M.HARINI
+### Register Number: 212222240035
 
 
 ### i)Read and Display an Image                                             
